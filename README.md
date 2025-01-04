@@ -115,10 +115,6 @@ Ensure you have the following installed:
 ## Map Integration
 The gym's location is displayed using Leaflet with custom markers. Users can zoom in/out and get directions to the gym.
 
-To customize the map:
-- Update the coordinates in the `map.js` file.
-- Replace the API key in the `.env` file with your Leaflet API key.
-
 ---
 
 ## Payment Processing
